@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    text-decoration: none;
+    margin-top: 20px;
+    font-size: 24px;
+    color: black;
+}
+.logo:hover{
+    color: black;
+    text-decoration: none;
+
+}.row button{
+    margin-top: 20px;
+    padding: 10px 30px;
+    border: 1px solid black;
+    color: black;
+    box-shadow: 2px 2px 0 black;
+    cursor: pointer;
+}
+.price{
+    max-width: 1140px;
+    height: 150px;
+    margin-top: 100px;
+}
+.textare{
+    margin-top: 20px;
+}
